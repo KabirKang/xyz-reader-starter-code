@@ -147,6 +147,7 @@ public class ArticleListActivity extends ActionBarActivity implements
                             ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
+
             return vh;
         }
 
