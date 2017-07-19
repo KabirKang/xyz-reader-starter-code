@@ -30,8 +30,9 @@
         <item name="colorAccent">@color/theme_accent</item>
     </style>
 
-    <style name="XYZReaderText" parent="android:Widget.TextView">
-        <item name="android:fontFamily">serif-monospace</item>
+    <style name="AppTheme.Widget"/>
+    <style name="XYZReaderText" parent="android:Widget.Holo.Light.TextView">
+        <item name="fontPath">fonts/PTSans.ttf</item>
     </style>
 
     <!--<style name="Theme.Bacon.Detail">-->
