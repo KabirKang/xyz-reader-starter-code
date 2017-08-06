@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="calligraphy-2.3.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/e08d063a09775d302a4eb77105d9f28510e0aef8/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/e08d063a09775d302a4eb77105d9f28510e0aef8/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0f442196f624b3169117c78d8c1eed7da39ffdcd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0f442196f624b3169117c78d8c1eed7da39ffdcd/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
