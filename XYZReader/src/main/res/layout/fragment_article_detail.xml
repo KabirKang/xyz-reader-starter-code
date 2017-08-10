@@ -97,8 +97,8 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:src="@drawable/ic_share"
-        app:pressedTranslationZ="@dimen/fab_press_translation_z"
-        android:translationZ="@dimen/fab_elevation"
+        android:elevation="@dimen/fab_elevation"
+        android:stateListAnimator="@animator/fab_state_list_anim"
         android:contentDescription="@string/action_share" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
